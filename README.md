@@ -1,4 +1,3 @@
-{Header}(https://github.com/Maksim1324/Max/blob/main/13112.jpg)
 
 Hello, my name is Maxim
 
